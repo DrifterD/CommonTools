@@ -16,7 +16,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.regex.Pattern;
 
-import com.yhx.StringUtils.StringUtils;
+import com.yhx.stringUtils.StringUtils;
 
 /**
  * 〈一句话功能简述〉金额转换成中文大写<br>
