@@ -23,10 +23,3 @@ java中常用的方法工具
 该目录下主要是常规以外的工具。
 目前支持方法工具:
 - 金额转大写方法
-
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
